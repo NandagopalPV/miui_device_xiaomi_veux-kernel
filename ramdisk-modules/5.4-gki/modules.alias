@@ -183,3 +183,4 @@ alias usb:v10F0p2002d*dc*dsc*dp*ic0Aisc00ip00in* usbtouchscreen
 alias usb:v1870p0001d*dc*dsc*dp*ic0Aisc00ip00in* usbtouchscreen
 alias usb:v04E7p0020d*dc*dsc*dp*ic*isc*ip*in* usbtouchscreen
 alias usb:v7374p0001d*dc*dsc*dp*ic*isc*ip*in* usbtouchscreen
+
